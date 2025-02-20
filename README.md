@@ -20,7 +20,7 @@ JavaScript – Interactivity and animations.
 
 Clone the repository:
 
-git clone https://github.com/amrendra1174/portfolio-website.git
+git clone [https://github.com/amrendra1174/portfolio-website.git](https://github.com/amrendra1174/ammy)
 
 Navigate to the project folder:
 
